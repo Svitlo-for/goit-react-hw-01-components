@@ -1,0 +1,14 @@
+.profile {
+    margin: 40px auto;
+    width: 280px;
+}
+
+.avatar {
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    font-weight: 700;
+}
