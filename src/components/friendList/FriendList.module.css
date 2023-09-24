@@ -1,9 +1,9 @@
-.friend-list {
-  display: flex;  
+.friendList {
+  display: flex;
   flex-direction: column;
   align-items: center;
   list-style: none;
   margin: 0 auto;
   padding: 0;
-  background-color:beige;
+  background-color: beige;
 }

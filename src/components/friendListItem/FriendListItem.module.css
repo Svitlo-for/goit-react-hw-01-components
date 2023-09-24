@@ -14,12 +14,17 @@
   margin-left: 10px;
   width: 12px;
   height: 12px;
-  background-color: darkred;
   border-radius: 50%;
 }
 
-.status.is-online {
+.online {
+  composes: status;
   background-color: forestgreen;
+}
+
+.offline {
+  composes: status;
+  background-color: darkred;
 }
 
 .avatar {
